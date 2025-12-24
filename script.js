@@ -891,7 +891,7 @@ addStyle('font', 'font_bold_alternate', '', '', {
 });
 
 loadModalTabs();
-});
+
   // ============ GUN SYMBOLS (37) ============
   // YEH CODE FONT STYLES KE NICHE LAGAO
   addMultipleSymbols('gun', [
