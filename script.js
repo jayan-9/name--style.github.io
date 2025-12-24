@@ -890,3 +890,48 @@ addStyle('font', 'font_bold_alternate', '', '', {
   U: "Ꮼ", V: "Ꮙ", W: "Ꮗ", X: "ጀ", Y: "Ꮍ", Z: "Ꮓ"
 });
 
+  // ============ GUN SYMBOLS (37) ============
+  // YEH CODE FONT STYLES KE NICHE LAGAO
+  addMultipleSymbols('gun', [
+    {symbol: '︻デ═一★彡', name: 'Star Gun'},
+    {symbol: '︻╦╤─ ▸▹', name: 'PARAFAL'},
+    {symbol: '︻デ═一', name: 'Simple Gun'},
+    {symbol: '︻╦̵̵͇̿̿̿̿╤──', name: 'AKM'},
+    {symbol: '├ ┱ ⋯', name: 'MP40'},
+    {symbol: '︻デ═一✷✷', name: 'Flower Gun'},
+    {symbol: '︻デ═一✦', name: 'Sparkle Gun'},
+    {symbol: '︻┳═╦━', name: 'QBZ95'},
+    {symbol: '︻デ╦═━', name: 'GROZA'},
+    {symbol: '︻デ═一₪', name: 'Shekel Gun'},
+    {symbol: '︻デ═一', name: 'Basic Gun'},
+    {symbol: '︻⟞═╦━═', name: 'MAG-10'},
+    {symbol: '︻デ╦━═', name: 'VSS'},
+    {symbol: '︻デ═一⋯', name: 'Dots Gun'},
+    {symbol: '︻┳═一', name: 'Simple Gun 2'},
+    {symbol: '︻デ═一⚡', name: 'Lightning Gun'},
+    {symbol: '︻デ═一✺', name: 'Star Gun 2'},
+    {symbol: '╔═╤デ═一', name: 'GROZA 2'},
+    {symbol: '︻⟞═━一一', name: 'M1887'},
+    {symbol: '︻デ═一▸▹▸▹', name: 'Arrow Gun'},
+    {symbol: '︻デ═一☠', name: 'Skull Gun (SKS)'},
+    {symbol: '─╤デ═一►', name: 'Arrow Gun 2'},
+    {symbol: '︻╦╤━', name: 'MP5'},
+    {symbol: '︻デ═一✪', name: 'Star Gun 3'},
+    {symbol: '︻デ═一', name: 'Basic Gun 2'},
+    {symbol: '︻デ═一⋆', name: 'Star Gun 4'},
+    {symbol: '︻╦̵̵͇̿̿̿̿╤───', name: 'SCAR'},
+    {symbol: '[•]︻デ═一', name: 'Bullet Gun'},
+    {symbol: '︻デ═一❖', name: 'Diamond Gun'},
+    {symbol: '︻デ═一ღ', name: 'Heart Gun'},
+    {symbol: '︻デ═一✦✦✦', name: 'Triple Sparkle'},
+    {symbol: '︻デ═一 >>>>', name: 'Arrow Gun 3'},
+    {symbol: '︻デ═一', name: 'Basic Gun 3'},
+    {symbol: '︻デ═一✱', name: 'Star Gun 5'},
+    {symbol: '︻デ═一✧✧', name: 'Sparkle Gun 2'},
+    {symbol: '︻デ═一✺', name: 'Star Gun 6'},
+    {symbol: '╤デ═一━', name: 'Simple Gun 3'}
+  ]);
+  
+  showToast("Font styles and gun symbols added!");
+  
+}); // ← END
