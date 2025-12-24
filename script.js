@@ -526,10 +526,8 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Initial load
   loadModalTabs();
-});
 
 // ============ ADD ALL 112 FONT STYLES ============
-
 // Style 1: Combining Ring Style
 addStyle('font', 'font_combining_ring', '', '', {
   a: "a͢", b: "b͢", c: "c͢", d: "d͢", e: "e͢", f: "f͢", g: "g͢", h: "h͢", i: "i͢", j: "j͢",
@@ -889,8 +887,7 @@ addStyle('font', 'font_bold_alternate', '', '', {
   K: "Ꮶ", L: "Ꮭ", M: "Ꮇ", N: "Ꮑ", O: "Ꮎ", P: "Ꮲ", Q: "Ꭴ", R: "Ꮢ", S: "Ꮥ", T: "Ꮦ",
   U: "Ꮼ", V: "Ꮙ", W: "Ꮗ", X: "ጀ", Y: "Ꮍ", Z: "Ꮓ"
 });
-// ============ FONT CATEGORY - ALL 114 STYLES ============
-
+// ============ FONT CATEGORY - ALL 114 STYLES ===========
 // Style 37: Greek Small Style
 addStyle('font', 'font_greek_small_37', '', '', {
   a: "α", b: "в", c: "c", d: "ɗ", e: "ε", f: "ƒ", g: "ɠ", h: "н", i: "ɪ", j: "נ",
@@ -1031,5 +1028,6 @@ addStyle('font', 'font_cyrillic_50', '', '', {
   U: "U҉", V: "V҉", W: "W҉", X: "X҉", Y: "Y҉", Z: "Z҉"
 });
 
-}); // ← Bas yeh end line
-
+showToast("Styles loaded successfully!");
+  
+});
