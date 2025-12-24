@@ -930,6 +930,4 @@ addStyle('font', 'font_bold_alternate', '', '', {
     {symbol: '╤デ═一━', name: 'Simple Gun 3'}
   ]);
   
-  showToast("Font styles and gun symbols added!");
-  
 }); // ← END
