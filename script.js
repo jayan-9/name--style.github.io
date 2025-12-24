@@ -1031,4 +1031,5 @@ addStyle('font', 'font_cyrillic_50', '', '', {
   U: "U҉", V: "V҉", W: "W҉", X: "X҉", Y: "Y҉", Z: "Z҉"
 });
 
+}); // ← Bas yeh end line
 
