@@ -889,12 +889,6 @@ addStyle('font', 'font_bold_alternate', '', '', {
   K: "Ꮶ", L: "Ꮭ", M: "Ꮇ", N: "Ꮑ", O: "Ꮎ", P: "Ꮲ", Q: "Ꭴ", R: "Ꮢ", S: "Ꮥ", T: "Ꮦ",
   U: "Ꮼ", V: "Ꮙ", W: "Ꮗ", X: "ጀ", Y: "Ꮍ", Z: "Ꮓ"
 });
-
-  /// ===== GUN SYMBOLS =====
-document.addEventListener('DOMContentLoaded', function() {
-  // ... existing code ...
-  
-  loadModalTabs();
   
   addMultipleSymbols('gun', [
     {symbol: '︻デ═一★彡', name: 'Star Gun'},
