@@ -502,8 +502,6 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   // ... yahan baaki ke 110 styles add karo ...
-
   // Optional success message
   // showToast("All styles loaded successfully!");
-  
 }); // ← BILKUL LAST LINE
