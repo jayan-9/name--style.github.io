@@ -1029,4 +1029,5 @@ addStyle('font', 'font_cyrillic_50', '', '', {
 });
   
 showToast("Styles loaded successfully!")  
+  
 });
