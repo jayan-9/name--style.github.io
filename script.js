@@ -1030,5 +1030,6 @@ addStyle('font', 'font_cyrillic_50', '', '', {
   K: "K҉", L: "L҉", M: "M҉", N: "N҉", O: "O҉", P: "P҉", Q: "Q҉", R: "R҉", S: "S҉", T: "T҉",
   U: "U҉", V: "V҉", W: "W҉", X: "X҉", Y: "Y҉", Z: "Z҉"
 });
+
 }); // ← Bas yeh end line
 
